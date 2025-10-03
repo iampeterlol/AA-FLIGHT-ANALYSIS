@@ -1,0 +1,13 @@
+# data
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+*.parquet
+*.json
+
+# environments & caches
+venv/
+.env
+__pycache__/
+.ipynb_checkpoints/
